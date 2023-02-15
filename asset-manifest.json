@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Geniobits-submission/static/css/main.e1f658cc.css",
-    "main.js": "/Geniobits-submission/static/js/main.818e60fb.js",
-    "index.html": "/Geniobits-submission/index.html",
-    "main.e1f658cc.css.map": "/Geniobits-submission/static/css/main.e1f658cc.css.map",
-    "main.818e60fb.js.map": "/Geniobits-submission/static/js/main.818e60fb.js.map"
+    "main.css": "/Recipebook/static/css/main.e1f658cc.css",
+    "main.js": "/Recipebook/static/js/main.818e60fb.js",
+    "index.html": "/Recipebook/index.html",
+    "main.e1f658cc.css.map": "/Recipebook/static/css/main.e1f658cc.css.map",
+    "main.818e60fb.js.map": "/Recipebook/static/js/main.818e60fb.js.map"
   },
   "entrypoints": [
     "static/css/main.e1f658cc.css",
